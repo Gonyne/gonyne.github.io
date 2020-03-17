@@ -1,7 +1,6 @@
 ---
 title: "Welcome to Gonyne!"
 date: 2020-02-22 13:00:00 -0800
-categories: Gonyne update
 ---
 안녕하세요. 반갑습니다.
 2020년 2월 22일 입니다.
